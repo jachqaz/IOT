@@ -1,9 +1,8 @@
 package co.edu.ucc.iotandroid;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -39,8 +38,8 @@ public class loginActivity extends AppCompatActivity {
 
 
     @OnClick(R.id.btnRegistrar)
-    public void clickRegistrar(View view) {
-        Intent intent =new Intent(loginActivity.this, registrarActivity.class);
+    public void clickRegistrar() {
+        Intent intent = new Intent(getApplicationContext(), registrarActivity.class);
         startActivity(intent);
     }
 }

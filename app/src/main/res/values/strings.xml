@@ -8,4 +8,5 @@
     <string name="title_activity_maps">Map</string>
     <string name="r_nombre">Nombre</string>
     <string name="Email">Correo Electronico</string>
+    <string name="tienes_usuario">Ya tienes un usuario</string>
 </resources>
