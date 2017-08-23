@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570707317007",
+    "firebase_url": "https://iotandroid-48b0a.firebaseio.com",
+    "project_id": "iotandroid-48b0a",
+    "storage_bucket": "iotandroid-48b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570707317007:android:6519959084a3452b",
+        "android_client_info": {
+          "package_name": "co.edu.ucc.iotandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570707317007-2nl05utn10vj9ihlt2omlpjgn6s49f5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucc.iotandroid",
+            "certificate_hash": "c734e6d762422b1e6b2f4cac1d6f7285dcabaa60"
+          }
+        },
+        {
+          "client_id": "570707317007-t972fa2vp58norjf8s12fl0t5ur9lsdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTVf2nCZK51DO1jS9yqn-OZs30OGol-J8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570707317007-t972fa2vp58norjf8s12fl0t5ur9lsdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

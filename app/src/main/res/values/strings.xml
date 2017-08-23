@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IOTAndroid</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingreso">Click en Ingresar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="r_nombre">Nombre</string>
+    <string name="Email">Correo Electronico</string>
+</resources>
