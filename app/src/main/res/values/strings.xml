@@ -9,4 +9,8 @@
     <string name="r_nombre">Nombre</string>
     <string name="Email">Correo Electronico</string>
     <string name="tienes_usuario">Ya tienes un usuario</string>
+    <string name="baño">Baño</string>
+    <string name="sala">Sala</string>
+    <string name="room1">Habitacion 1</string>
+    <string name="room2">Habitacion 2</string>
 </resources>
