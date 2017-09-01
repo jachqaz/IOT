@@ -5,4 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="blanco">#fff</color>
     <color name="rojo">#ff0000</color>
+    <color name="cyan">#00b8d4</color>
+    <color name="cyanpl">#62ebff</color>
+    <color name="cyanpd">#0088a3</color>
 </resources>

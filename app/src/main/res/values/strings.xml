@@ -11,6 +11,6 @@
     <string name="tienes_usuario">Ya tienes un usuario</string>
     <string name="baño">Baño</string>
     <string name="sala">Sala</string>
-    <string name="room1">Habitacion 1</string>
-    <string name="room2">Habitacion 2</string>
+    <string name="cocina">Cocina</string>
+    <string name="room">Habitacion</string>
 </resources>
